@@ -25,7 +25,7 @@ esp32:
       CONFIG_FREERTOS_USE_STATS_FORMATTING_FUNCTIONS: y
 
 uart:
-  id: heatpump
+  id: uart_heatpump
   rx_pin:
     number: GPIO${uart_rx_pin}
     mode:
