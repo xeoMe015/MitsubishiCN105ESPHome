@@ -1,6 +1,3 @@
-external_components:
-  - source: cn105
-
 # Climate entity configuration
 climate:
   - platform: cn105
